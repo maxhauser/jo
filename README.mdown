@@ -1,6 +1,9 @@
 Summary
 =======
 
+testedit
+--------
+
 Jo is a JavaScript framework for HTML5 capable browsers and devices. It was
 originally designed to work on mobile platforms as a GUI and light data layer
 on top of PhoneGap. Since its creation, Jo has also been tested successfully
